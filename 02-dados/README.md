@@ -1,0 +1,3 @@
+# 02 - Dados
+   
+   Esta pasta contém os 6 CSVs relacionais entregues pela Méliuz como base do case.
